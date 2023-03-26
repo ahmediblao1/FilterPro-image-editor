@@ -1,6 +1,6 @@
 FilterPro
 
-FilterPro is a web-based image editing tool that allows users to apply a variety of filters to their photos. The application is built with HTML, CSS, and JavaScript using the Bootstrap framework and can be easily used in any modern web browser.
+FilterPro is a web-based image editing tool that allows users to apply a variety of filters to their photos. The application is built with HTML, CSS, and JavaScript and can be easily used in any modern web browser.
 
 Features
 
