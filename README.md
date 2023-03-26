@@ -19,8 +19,6 @@ A modern web browser
 Installation
 FilterPro does not require any installation. Simply download the project files and open the index.html file in any modern web browser.
 
-License
-FilterPro is released under the MIT License. See LICENSE for details.
 
 
 
