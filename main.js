@@ -28,7 +28,12 @@ function resetvalue(){
 }
 
 /// hide the download and Reset buttons 
+window.onload = function(){
+    download.style.display= 'none';
+    Reset.style.display= 'none';
+    imgBox.style.display= 'none';
 
+}
 
 
 // uploading the image 
