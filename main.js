@@ -13,6 +13,7 @@ let img = document.getElementById('img')
 let Reset = document.querySelector('span')
 let imgBox = document.querySelector('.img-box')
 
+///  resets the image filters values to their default values.
 
 
 function resetvalue(){
