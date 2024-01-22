@@ -4,6 +4,7 @@ FilterPro is a web-based image editing tool that allows users to apply a variety
 
 Demo.
 https://ahmediblao1.github.io/FilterPro-image-editor/
+
 Features
 
 Upload and preview images
